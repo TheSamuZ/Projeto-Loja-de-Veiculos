@@ -1,10 +1,11 @@
 //classe chamada "Carro" que estende a classe "Veiculos"
 public class Carro extends Veiculos {
-    // Adicionando os Getters and Setters á classe Carro
+    // O método "getTipodeCombustivel()" retorna o valor da propriedade "TipodeCombustivel"
     public String getTipodeCombustivel() {
         return TipodeCombustivel;
     }
-
+    //O método "setTipodeCombustivel()" recebe um valor como parâmetro e
+    // atribui esse valor à propriedade "TipodeCombustivel"
     public void setTipodeCombustivel(String tipodeCombustivel) {
         TipodeCombustivel = tipodeCombustivel;
     }
