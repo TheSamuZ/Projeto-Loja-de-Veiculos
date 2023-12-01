@@ -1,9 +1,7 @@
 # Projeto-Loja-de-Veiculos
 
 # MAROMO MARKETPLACE
-Nome: Gabriel Ribeiro
-Nome: Marcelo Polydoro
-Nome: Samuel Araujo
+Nome: Gabriel Ribeiro, Marcelo Polydoro, Samuel Araujo
 
 ## Índice
 
