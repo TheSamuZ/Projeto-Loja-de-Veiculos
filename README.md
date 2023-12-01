@@ -89,7 +89,7 @@ de conhecimento, incentivando uma comunidade aberta em torno do desenvolvimento 
 Em caso de qualquer problema ou dúvida relacionada ao software, recomendamos utilizar a seção ["Issues"](https://github.com/vinicius-delfin/maromo-marketplace/issues)
 disponível neste repositório no GitHub. A funcionalidade de "Issues" fornece um ambiente organizado para relatar problemas,
 sugestões ou discussões relacionadas ao desenvolvimento. Alternativamente, sinta-se à vontade para entrar em contato
-diretamente por e-mail através de [vinicius.delfin@gmail.com](mailto:vinicius.delfin@gmail.com). Estamos comprometidos em
+diretamente por e-mail através de [smg.veiculos1@gmail.com](smg.veiculos1@gmail.com). Estamos comprometidos em
 garantir uma experiência positiva para os usuários e estamos prontos para oferecer suporte e assistência sempre que
 necessário.
 
